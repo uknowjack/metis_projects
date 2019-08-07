@@ -2,6 +2,9 @@
 
 please email me if you will like to see complimentary presentations for the projects
 
+
+Projects
+
 Which houses make the best investments?
 
 Created a web-scraper using Beautiful Soup and Selenium on Redfin to gather data on homes  and their historical prices. Parsed the description with NLP to get additional vectors to add to XGBoosted layered regressions to analyze the data. I normalised price changes on the local House Pricing Index to extract the properties most correlated with homes that outperformed average real estate gains in the area. I found the location, and regularly updated homes made the best investments. Also longer descriptions with detailed descriptions including quality materials correlated highly with groups of homes that make the best investments.
